@@ -79,6 +79,3 @@ Router Agent
 - The router agent returns free-form text from the LLM (e.g. `"news"`); for stricter reliability, consider constraining it with structured output.
 - Update the model name in `agents.py` to a valid OpenAI model available to your account.
 
-## License
-
-MIT
